@@ -1,0 +1,74 @@
+21:18:13.725 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:18:14.898 [main] INFO  stepDefinitions.steps - Login is clicked
+21:18:26.535 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:18:27.459 [main] INFO  stepDefinitions.steps - Login is clicked
+21:18:37.902 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:18:39.069 [main] INFO  stepDefinitions.steps - Login is clicked
+21:20:19.770 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:20:20.728 [main] INFO  stepDefinitions.steps - Login is clicked
+21:20:32.104 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:20:33.268 [main] INFO  stepDefinitions.steps - Login is clicked
+21:20:43.054 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:20:43.645 [main] INFO  stepDefinitions.steps - Login is clicked
+21:27:14.973 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:27:16.067 [main] INFO  stepDefinitions.steps - Login is clicked
+21:27:30.463 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:27:31.589 [main] INFO  stepDefinitions.steps - Login is clicked
+21:27:52.733 [main] INFO  stepDefinitions.steps - My Account is clicked
+21:27:54.028 [main] INFO  stepDefinitions.steps - Login is clicked
+22:12:25.769 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:12:27.206 [main] INFO  stepDefinitions.steps - Login is clicked
+22:12:43.750 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:12:44.419 [main] INFO  stepDefinitions.steps - Login is clicked
+22:13:04.130 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:13:05.408 [main] INFO  stepDefinitions.steps - Login is clicked
+22:13:26.041 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:13:26.792 [main] INFO  stepDefinitions.steps - Login is clicked
+22:13:46.889 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:13:47.990 [main] INFO  stepDefinitions.steps - Login is clicked
+22:19:54.626 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:19:55.207 [main] INFO  stepDefinitions.steps - Login is clicked
+22:19:55.407 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:19:55.533 [main] INFO  stepDefinitions.steps - Password is entered
+22:19:56.175 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:21:29.491 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:21:30.030 [main] INFO  stepDefinitions.steps - Login is clicked
+22:21:30.203 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:21:30.341 [main] INFO  stepDefinitions.steps - Password is entered
+22:21:31.354 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:21:31.543 [main] INFO  stepDefinitions.steps - Login Success
+22:27:56.353 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:27:56.831 [main] INFO  stepDefinitions.steps - Login is clicked
+22:27:57.010 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:27:57.150 [main] INFO  stepDefinitions.steps - Password is entered
+22:27:58.365 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:27:58.513 [main] INFO  stepDefinitions.steps - Login Success
+22:29:47.260 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:29:48.195 [main] INFO  stepDefinitions.steps - Login is clicked
+22:29:48.379 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:29:48.519 [main] INFO  stepDefinitions.steps - Password is entered
+22:29:49.687 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:29:49.858 [main] INFO  stepDefinitions.steps - Login Success
+22:36:03.422 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:36:04.072 [main] INFO  stepDefinitions.steps - Login is clicked
+22:36:04.305 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:36:04.444 [main] INFO  stepDefinitions.steps - Password is entered
+22:36:05.605 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:36:24.052 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:36:24.759 [main] INFO  stepDefinitions.steps - Login is clicked
+22:36:24.991 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:36:25.185 [main] INFO  stepDefinitions.steps - Password is entered
+22:36:26.699 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:36:26.908 [main] INFO  stepDefinitions.steps - Login Success
+22:38:45.017 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:38:46.073 [main] INFO  stepDefinitions.steps - Login is clicked
+22:38:46.327 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:38:46.496 [main] INFO  stepDefinitions.steps - Password is entered
+22:38:47.977 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:38:48.212 [main] INFO  stepDefinitions.steps - Login Success
+22:41:43.632 [main] INFO  stepDefinitions.steps - My Account is clicked
+22:41:44.297 [main] INFO  stepDefinitions.steps - Login is clicked
+22:41:44.558 [main] INFO  stepDefinitions.steps - Email Address is entered
+22:41:44.692 [main] INFO  stepDefinitions.steps - Password is entered
+22:41:46.018 [main] INFO  stepDefinitions.steps - Login Button is clicked
+22:41:46.206 [main] INFO  stepDefinitions.steps - Login Success
